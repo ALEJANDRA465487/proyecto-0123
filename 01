@@ -1,0 +1,9 @@
+Definir nombre como carácter
+Definir sueldo,bofini ,hijo, sueldofina como real 
+Escribir"Ingresar sueldo:";Leer sueldo
+Escribir"Ingresar hijos:";Leer hijo
+Si hijo=0 entonces
+Bofini=sueldo*0.09
+Sino
+Sueldofina=sueldo+bofin
+Escribir"sueldo final:"sueldofina
